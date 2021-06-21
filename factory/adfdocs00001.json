@@ -1,0 +1,9 @@
+{
+	"name": "adfdocs00001",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6d9d4a23-bc0a-4741-8bc5-5d67526b1ed3",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
